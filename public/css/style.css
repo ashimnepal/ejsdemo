@@ -1,0 +1,22 @@
+body
+{
+    background-color: aqua;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+header
+{
+    border: 5px solid red;
+    padding: 30px;
+    height: 60px;
+    width: 100%;
+}
+
+footer
+{
+ 
+ height: 60px;
+ width: 100%;
+ padding: 30px;
+}
